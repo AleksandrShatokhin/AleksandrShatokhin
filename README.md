@@ -9,9 +9,8 @@
 - 💪 I don't like to stand still, I'm always looking for the development of my skills and abilities
 
 ### Connect with me:
-<a href="https://vk.com/id84643882"><img width="22px" src="https://github.com/AleksandrShatokhin/AleksandrShatokhin/blob/main/Icons/IconVK.png" /></a>
-<!--[<img align="left" alt="AleksandrShatokhin | VK" width="22px" src="https://github.com/AleksandrShatokhin/AleksandrShatokhin/blob/main/Icons/IconVK.png" />][website]-->
-
+<a href="https://vk.com/id84643882"><img alt="AleksandrShatokhin | VK" width="22px" src="https://github.com/AleksandrShatokhin/AleksandrShatokhin/blob/main/Icons/IconVK.png" /></a>
+<a href="https://t.me/AlShatokhin"><img alt="AleksandrShatokhin | telegram" width="22px" src="https://github.com/AleksandrShatokhin/AleksandrShatokhin/blob/main/Icons/IconTelegram.png" /></a>
 
 
 
