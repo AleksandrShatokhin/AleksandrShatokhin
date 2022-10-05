@@ -9,7 +9,7 @@
 - 💪 I don't like to stand still, I'm always looking for the development of my skills and abilities
 
 ### Connect with me:
-[<img align="left" alt="AleksandrShatokhin | VK" width="22px" src="https://vk.com/id84643882" />][https://vk.com/id84643882]
+[<img align="left" alt="AleksandrShatokhin | VK" width="22px" src="https://github.com/AleksandrShatokhin/AleksandrShatokhin/blob/main/Icons/IconVK.png" />][website]
 
 
 
