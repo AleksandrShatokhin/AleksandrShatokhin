@@ -10,11 +10,8 @@
 
 ### Connect with me:
 <a href="https://vk.com/id84643882"><img alt="AleksandrShatokhin | VK" width="22px" src="https://github.com/AleksandrShatokhin/AleksandrShatokhin/blob/main/Icons/IconVK.png" /></a>
-
 <a href="https://t.me/AlShatokhin"><img alt="AleksandrShatokhin | telegram" width="22px" src="https://github.com/AleksandrShatokhin/AleksandrShatokhin/blob/main/Icons/IconTelegram.png" /></a>
-
 <a href="https://www.instagram.com/al.shatokhin/"><img alt="AleksandrShatokhin | Instagram" width="22px" src="https://github.com/AleksandrShatokhin/AleksandrShatokhin/blob/main/Icons/IconInstagram.png" /></a>
-
 <a href="https://aleksandrshatokhin.itch.io/"><img alt="AleksandrShatokhin | itch.io" width="22px" src="https://github.com/AleksandrShatokhin/AleksandrShatokhin/blob/main/Icons/IconITCHIO.png" /></a>
 
 
