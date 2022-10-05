@@ -14,4 +14,4 @@
 <a href="https://www.instagram.com/al.shatokhin/"><img alt="AleksandrShatokhin | Instagram" width="30px" src="https://github.com/AleksandrShatokhin/AleksandrShatokhin/blob/main/Icons/IconInstagram.png" /></a>
 <a href="https://aleksandrshatokhin.itch.io/"><img alt="AleksandrShatokhin | itch.io" width="30px" src="https://github.com/AleksandrShatokhin/AleksandrShatokhin/blob/main/Icons/IconITCHIO.png" /></a>
 
-![](http://komarev.com/ghpvc/?username=AleksandrShatokhin)
+<!-- ![](http://komarev.com/ghpvc/?username=AleksandrShatokhin) -->
