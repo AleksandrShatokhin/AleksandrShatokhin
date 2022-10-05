@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Aleksand
+### I'm a Unity developer. Working with the C# language.
 
+- 💻 I like working with code
+- 🎮 I like to play games and make them
+- 🎈 I like to develop and learn new things
+- ⚽ I like football 
+- 📖 I like reading books
+- 💪 I don't like to stand still, I'm always looking for the development of my skills and abilities
+
+### Connect with me:
 <!--
 **AleksandrShatokhin/AleksandrShatokhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
