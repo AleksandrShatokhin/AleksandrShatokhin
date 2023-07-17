@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Aleksand
+### Hi there 👋, I'm Aleksandr
 ### I'm a Unity developer. Working with the C# language.
 
 - 💻 I like working with code
